@@ -1,6 +1,9 @@
 'use strict';
 
+require('dotenv').config();
+
 module.exports = (req,res,next) => {
-    req.model = require(`../models/books/pg/pg-book-model.js`);
+    let modelName = process.env.DB;
+    req.model = require(`../models/books/${modelName}/${modelName}-model.js`);
     next();
 };
