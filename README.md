@@ -1,4 +1,4 @@
-#JS401 - Project 2 - Book App
+# JS401 - Project 2 - Book App
 ## Author: Cory Henderson
 This project required modularization of an existing server and wiring it to both a Postgres and Mongo database.
 
