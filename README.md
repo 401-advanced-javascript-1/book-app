@@ -5,7 +5,8 @@ This project required modularization of an existing server and wiring it to both
 
 ## Links and Resources
 - [Github Repo](https://github.com/401-advanced-javascript-1/book-app)
-- [Heroku](https://enigmatic-meadow-66586.herokuapp.com/)
+- [Heroku - MongoDB](https://enigmatic-meadow-66586.herokuapp.com/)
+- [Heroku - Postgres] ()
 
 ## Documentation
 
