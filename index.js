@@ -11,7 +11,8 @@ if(process.env.DB==='mongo'){
   };
   mongoose.connect(process.env.MONGODB_URI, mongooseOptions);
 
-  require('./src/servers/mongo-server.js').start(process.env.PORT);
+  // require('./src/servers/mongo-server.js').start(process.env.PORT);
+  require('./src/server.js').start(process.env.PORT);
 
 } else {
   const client = new pg.Client(process.env.DATABASE_URL);
