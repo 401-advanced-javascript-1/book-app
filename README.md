@@ -1,12 +1,12 @@
 # JS401 - Project 2 - Book App
 ## Author: Cory Henderson
 ## Collaborated with: Erin Trainor, Billy Bunn
-This project required modularization of an existing server and wiring it to both a Postgres and MongoDB database.  The base model has specific get(), put(), post(), and delete() methods depending on whether the DB is set to a PostGres(pg) or MongoDB(mongo) database.
+This project required modularization of an existing server and wiring it to both a Postgres and MongoDB database.  The base model has specific get(), put(), post(), and delete() methods depending on whether the DB is set to a PostGres(pg) or MongoDB(mongo) database.  Links to both deployed DB versions are provided below.
 
 ## Links and Resources
 - [Github Repo](https://github.com/401-advanced-javascript-1/book-app)
 - [Heroku - MongoDB](https://enigmatic-meadow-66586.herokuapp.com/)
-- [Heroku - Postgres] ()
+- [Heroku - Postgres] (https://nameless-island-89782.herokuapp.com/)
 
 ## Documentation
 
