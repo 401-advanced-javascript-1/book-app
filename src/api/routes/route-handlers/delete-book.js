@@ -1,5 +1,7 @@
 'use strict';
 
+const db = process.env.DB;
+
 module.exports = (request, response, next) => {
     let id = [request.params.id];
 
