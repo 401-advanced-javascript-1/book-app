@@ -22,5 +22,3 @@ if(process.env.DB==='mongo'){
 
   module.exports = client;
 }
-
-// require('./src/servers/pg-server.js').start(process.env.PORT);
