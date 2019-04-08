@@ -1,11 +1,11 @@
 # JS401 - Project 2 - Book App
 ## Author: Cory Henderson
 ## Collaborated with: Erin Trainor, Billy Bunn
-This project required modularization of an existing server and wiring it to both a Postgres and Mongo database.
+This project required modularization of an existing server and wiring it to both a Postgres and MongoDB database.
 
 ## Links and Resources
 - [Github Repo](https://github.com/401-advanced-javascript-1/book-app)
-- [Heroku]()
+- [Heroku](https://enigmatic-meadow-66586.herokuapp.com/)
 
 ## Documentation
 
