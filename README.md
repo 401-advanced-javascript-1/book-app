@@ -28,7 +28,7 @@ This project required modularization of an existing server and wiring it to both
     - MONGODB_URI=mongodb://localhost:27017/teams (for MongoDB NoSQL)
     - DATABASE_URL=postgres://localhost:5432/books (for postgres SQL)
     - PORT=3000 (for nodemon)
-    - DB=postgres or mongo (initiates proper server files)
+    - DB=pg or mongo (initiates proper server files)
 
 ## Tests
 - Testing for expected route endpoints is performed using jest.
